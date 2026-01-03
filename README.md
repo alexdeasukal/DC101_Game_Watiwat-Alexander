@@ -47,9 +47,9 @@ The player competes against the computer, and the first to reach **5 points** wi
 
 ## Author
 
-Lastname, Firstname  
+Watiwat, Alexander 
 DC101
 
 
-Screenshot or link to GitHub Pages (if deployed)
+### Screenshot or link to GitHub Pages (if deployed)
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e377f417-d639-4060-9e6c-46816b66458f" />
