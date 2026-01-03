@@ -18,11 +18,11 @@ The player competes against the computer, and the first to reach **5 points** wi
 ### Steps
 
 1. Download the Zip file
-2. Find the DC101_Game_WatiwatAlexander on the **Downloads**
+2. Find the DC101_Game_WatiwatAlexander-main.zip on the **Downloads**
 3. Right click and select **Extract Here**
 4. Once the extracting is done, open **Visual Studio Code**
 5. Click **File → Open Folder**
-6. Select the project folder: DC101_Game_WatiwatAlexander
+6. Select the project folder: DC101_Game_WatiwatAlexander-main
 7. Locate the file **index.html**
 8. Right-click on `index.html` and choose:
 - **Open with Live Server** (recommended), or
