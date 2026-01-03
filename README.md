@@ -52,7 +52,7 @@ The player competes against the computer, and the first to reach **5 points** wi
 
 Watiwat, Alexander 
 
-BSCSS-2B
+BSCS-2B
 
 
 ### Screenshot or link to GitHub Pages (if deployed)
