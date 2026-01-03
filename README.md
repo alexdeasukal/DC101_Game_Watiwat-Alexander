@@ -51,6 +51,7 @@ The player competes against the computer, and the first to reach **5 points** wi
 ## Author
 
 Watiwat, Alexander 
+
 DC101
 
 
